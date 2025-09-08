@@ -1,7 +1,9 @@
 function App() {
+  const username = "Pallav"
+
   return (
     <>
-      <h2>REACT PROJECT VIA VITE || Pallav Chauhan</h2>
+      <h2>REACT PROJECT VIA VITE || {username}</h2>
     </>
   )
 }
